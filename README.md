@@ -4,6 +4,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-orange)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.8.9%2B-green)
 
+[English Readme](https://github.com/LeoLeeYM/GestureRecognition/blob/main/README_EN.md)
+
 ## 项目概述
 
 本项目基于MediaPipe的手势识别技术，通过计算机摄像头实时捕捉手势动作，实现多种手势交互功能。支持屏幕控制、媒体操作、文字输入等多种交互方式，可作为人机交互的扩展方案。
