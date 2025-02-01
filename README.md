@@ -277,5 +277,3 @@ last_process = time.time()
 ```
 
 ---
-
-[项目仓库](https://github.com/yourusername/GestureControl) | [问题反馈](https://github.com/yourusername/GestureControl/issues) | [授权协议](LICENSE)
