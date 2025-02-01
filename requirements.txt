@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+mediapipe==0.8.9.1
+pyautogui==0.9.53
+pywin32==303
